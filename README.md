@@ -1,2 +1,2 @@
-# 1.Hafta_Odevi
-1. Hafta Ödevleri
+# 2.Hafta_Odevi
+2. Hafta Ödevleri
